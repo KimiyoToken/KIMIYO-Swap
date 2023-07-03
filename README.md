@@ -34,3 +34,6 @@ Since anyone can deploy a smart contract to create a liquidity pool on KimiyoSwa
 
 # What problems does KimiyoSwap solve ?
 KimiyoSwap aims to solve the liquidity problem that decentralized exchanges have by allowing the platform to swap tokens without buyers and sellers having to create liquidity.
+
+# Do you have Twitter ?
+Yes, https://twitter.com/KimiyoToken
